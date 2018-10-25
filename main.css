@@ -1,0 +1,38 @@
+body {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    margin: 20px;
+
+
+}
+div {
+    display: inline-block;
+}
+.table{
+    border: 1px solid black;
+    background: aliceblue;
+    padding: 10px;
+}
+
+.text-lead{
+    font-size: 120%;
+    }
+
+.text-aqua {
+    color: aqua;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-yellow {
+    color: yellow;
+}
+
+.text-muted {
+    color: grey;
+}
